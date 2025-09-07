@@ -34,7 +34,7 @@ const HelloWorld = ({ name }) => {
               </button>
             </div>
             
-            <div className="card-footer bg-light text-center py-3">
+            <div className="card-footer text-center py-3">
               <small className="text-muted">&copy; Seba Flomenbaun</small>
             </div>
           </div>
